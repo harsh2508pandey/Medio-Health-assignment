@@ -24,4 +24,4 @@ flowchart TD
     B[Hospital B<br/>HR Module] --> P2[High Impact, Medium Urgency]
     C[Hospital C<br/>Inventory Features] --> P3[Medium Impact, Medium Urgency]
 ```
-Add sprint planning visuals
+
