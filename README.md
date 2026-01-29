@@ -30,6 +30,12 @@ The objective of this assignment is to demonstrate:
 Sprint Duration: **1 Month**
 
 
+## 📊 Visual Sprint Planning
+
+To help visualize the sprint plan and priorities:
+
+🔗 [View Sprint Planning Visuals](visuals/visuals.md)
+
 
 ## Key Deliverables
 
